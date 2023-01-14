@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oli
-- 👀 I’m interested in Python 
-- 🌱 I’m currently learning Flask
+- 👀 I’m interested in Python and Web development
+- 🌱 I’m currently learning Flask and  bash scripting
 
 <!---
 OliverGebert/OliverGebert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
